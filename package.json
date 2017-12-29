@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-urbanladder",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A set of rules for enforcing naming conventions and coding styles specific to Urban Ladder",
   "keywords": [
     "eslint",
